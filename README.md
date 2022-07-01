@@ -1,7 +1,7 @@
 # my-first-type-in-program
 My first BASIC type-in program
 
-**[PORTUGUESE]**
+**[PORTUGUÊS]**
 
 Mantenho este repositório por razões puramente sentimentais, então, provavelmente ele não terá muito valor para você.
 
@@ -12,4 +12,17 @@ Foi o início de uma paixão pela arte da programação.
 O jogo "Bowling" foi escrito por Paul Peraino, publicado originalmente na revista "[BASIC Computer Games](https://en.wikipedia.org/wiki/BASIC_Computer_Games)" (David H. Ahl, 1973), e disponibilizado no site [Vintage Basic](http://www.vintage-basic.net/).
 
 Se você está entediado e procura alguma coisa diferente para fazer, busca un café e divirta-se!
+:-)
+
+**[ESPAÑOL]**
+
+Mantengo este repositorio por razones puramente sentimentales y creo que no tendrá mucho valor para usted. 
+
+Cuando tenía 10 años, un amigo ganó un ordenador [Sinclair ZX80](https://pt.wikipedia.org/wiki/Sinclair_ZX80). Así pasábamos las noches tecleando sin hacer ruido mientras ingresábamos los códigos de los programas ([Type-in program](https://en.wikipedia.org/wiki/Type-in_program)) que venían en revistas extranjeras de informática que solo lográbamos encontrar en los quioscos del aeropuerto. 
+
+Fue el comienzo de una pasión por el arte de la programación.
+
+El juego "Bowling" fue escrito por Paul Peraino, publicado en la revista "[BASIC Computer Games](https://en.wikipedia.org/wiki/BASIC_Computer_Games)" (David H. Ahl, 1973), y se encuentra disponible en el sitio [Vintage Basic](http://www.vintage-basic.net/).
+
+Si se encuentra aburrido y busca algo diferente que hacer ... ¡busca un café y diviértete!
 :-)
