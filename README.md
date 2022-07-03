@@ -1,7 +1,7 @@
-# my-first-type-in-program
-My first BASIC type-in program
+# My first BASIC type-in program
 
-**[PORTUGUÊS]**
+\
+`**[PORTUGUÊS]**`
 
 Mantenho este repositório por razões puramente sentimentais, então, provavelmente ele não terá muito valor para você.
 
@@ -14,7 +14,8 @@ O jogo "Bowling" foi escrito por Paul Peraino, publicado originalmente na revist
 Se você está entediado e procura alguma coisa diferente para fazer, busca un café e divirta-se!
 :-)
 
-**[ESPAÑOL]**
+\
+`**[ESPAÑOL]**`
 
 Mantengo este repositorio por razones puramente sentimentales y creo que no tendrá mucho valor para usted. 
 
@@ -27,7 +28,8 @@ El juego "Bowling" fue escrito por Paul Peraino, publicado en la revista "[BASIC
 Si se encuentra aburrido y busca algo diferente que hacer ... ¡busca un café y diviértete!
 :-)
 
-**[ENGLISH]**
+\
+`**[ENGLISH]**`
 
 I keep this repository for sentimental reasons only, so it probably will not have much value for you.
 
