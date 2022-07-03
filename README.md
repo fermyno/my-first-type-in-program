@@ -26,3 +26,16 @@ El juego "Bowling" fue escrito por Paul Peraino, publicado en la revista "[BASIC
 
 Si se encuentra aburrido y busca algo diferente que hacer ... ¡busca un café y diviértete!
 :-)
+
+**[ENGLISH]**
+
+I keep this repository for sentimental reasons only, so it probably will not have much value for you.
+
+When I was 10 years old, a friend got a [Sinclair ZX80](https://pt.wikipedia.org/wiki/Sinclair_ZX80) computer, starting overnights by typing the codes that appeared in foreign magazines ([Type-in program](https://en.wikipedia.org/wiki/Type-in_program)) only available in the airport bookstore.
+
+It was the beginning of a passion for the art of programming.
+
+The game "Bowling" was written by Paul Peraino, originally published in the magazine "[BASIC Computer Games](https://en.wikipedia.org/wiki/BASIC_Computer_Games)" and made available on [Vintage Basic](http://www.vintage-basic.net/) website.
+
+If you are bored and looking for something different to do, get a coffee and have fun!
+:-)
