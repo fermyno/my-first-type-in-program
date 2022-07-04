@@ -1,7 +1,7 @@
 # My first BASIC type-in program
 
 \
-`**[PORTUGUÊS]**`
+`[PORTUGUÊS]`
 
 Mantenho este repositório por razões puramente sentimentais, então, provavelmente ele não terá muito valor para você.
 
@@ -15,7 +15,7 @@ Se você está entediado e procura alguma coisa diferente para fazer, busca un c
 :-)
 
 \
-`**[ESPAÑOL]**`
+`[ESPAÑOL]`
 
 Mantengo este repositorio por razones puramente sentimentales y creo que no tendrá mucho valor para usted. 
 
@@ -29,7 +29,7 @@ Si se encuentra aburrido y busca algo diferente que hacer ... ¡busca un café y
 :-)
 
 \
-`**[ENGLISH]**`
+`[ENGLISH]`
 
 I keep this repository for sentimental reasons only, so it probably will not have much value for you.
 
