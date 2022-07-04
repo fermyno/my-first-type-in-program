@@ -9,7 +9,7 @@ Quando eu tinha 10 anos um amigo ganhou um computador [Sinclair ZX80](https://pt
 
 Foi o início de uma paixão pela arte da programação.
 
-O jogo "Bowling" foi escrito por Paul Peraino, publicado originalmente na revista "[BASIC Computer Games](https://en.wikipedia.org/wiki/BASIC_Computer_Games)" (David H. Ahl, 1973), e disponibilizado no site [Vintage Basic](http://www.vintage-basic.net/).
+O jogo "Bowling" foi escrito por Paul Peraino, publicado originalmente na revista "[BASIC Computer Games](https://en.wikipedia.org/wiki/BASIC_Computer_Games)" ([David H. Ahl](https://en.wikipedia.org/wiki/David_H._Ahl), 1973), e disponibilizado no site [Vintage Basic](http://www.vintage-basic.net/).
 
 Se você está entediado e procura alguma coisa diferente para fazer, busca un café e divirta-se!
 :-)
@@ -23,7 +23,7 @@ Cuando tenía 10 años, un amigo ganó un ordenador [Sinclair ZX80](https://pt.w
 
 Fue el comienzo de una pasión por el arte de la programación.
 
-El juego "Bowling" fue escrito por Paul Peraino, publicado en la revista "[BASIC Computer Games](https://en.wikipedia.org/wiki/BASIC_Computer_Games)" (David H. Ahl, 1973), y se encuentra disponible en el sitio [Vintage Basic](http://www.vintage-basic.net/).
+El juego "Bowling" fue escrito por Paul Peraino, publicado en la revista "[BASIC Computer Games](https://en.wikipedia.org/wiki/BASIC_Computer_Games)" ([David H. Ahl](https://en.wikipedia.org/wiki/David_H._Ahl), 1973), y se encuentra disponible en el sitio [Vintage Basic](http://www.vintage-basic.net/).
 
 Si se encuentra aburrido y busca algo diferente que hacer ... ¡busca un café y diviértete!
 :-)
@@ -37,7 +37,7 @@ When I was 10 years old, a friend got a [Sinclair ZX80](https://pt.wikipedia.org
 
 It was the beginning of a passion for the art of programming.
 
-The game "Bowling" was written by Paul Peraino, originally published in the magazine "[BASIC Computer Games](https://en.wikipedia.org/wiki/BASIC_Computer_Games)" and made available on [Vintage Basic](http://www.vintage-basic.net/) website.
+The game "Bowling" was written by Paul Peraino, originally published in the magazine "[BASIC Computer Games](https://en.wikipedia.org/wiki/BASIC_Computer_Games)" ([David H. Ahl](https://en.wikipedia.org/wiki/David_H._Ahl), 1973) and made available on [Vintage Basic](http://www.vintage-basic.net/) website.
 
 If you are bored and looking for something different to do, get a coffee and have fun!
 :-)
