@@ -14,6 +14,8 @@ O jogo "Bowling" foi escrito por Paul Peraino, publicado originalmente na revist
 Se você está entediado e procura alguma coisa diferente para fazer, busca un café e divirta-se!
 :-)
 
+Emulador BASIC: [https://www.calormen.com/jsbasic/](https://www.calormen.com/jsbasic/)
+
 \
 `[ESPAÑOL]`
 
@@ -28,6 +30,8 @@ El juego "Bowling" fue escrito por Paul Peraino, publicado en la revista "[BASIC
 Si se encuentra aburrido y busca algo diferente que hacer ... ¡busca un café y diviértete!
 :-)
 
+Emulador BASIC: [https://www.calormen.com/jsbasic/](https://www.calormen.com/jsbasic/)
+
 \
 `[ENGLISH]`
 
@@ -41,3 +45,5 @@ The game "Bowling" was written by Paul Peraino, originally published in the maga
 
 If you are bored and looking for something different to do, get a coffee and have fun!
 :-)
+
+BASIC Emulator: [https://www.calormen.com/jsbasic/](https://www.calormen.com/jsbasic/)
