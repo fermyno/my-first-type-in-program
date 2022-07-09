@@ -13,7 +13,15 @@ O jogo "Bowling" foi escrito por Paul Peraino, publicado originalmente na revist
 
 Se você está entediado e procura alguma coisa diferente para fazer, busca un café e divirta-se!
 :-)
-
+\
+\
+**Arquivos:**
+\
+**bowling.bas:** código original do programa publicado na revista.
+\
+**bowling-portugues.bas:** código alterado por mim visando adicionar a pontuação de cada jogador, exibir as mensagens em língua portuguesa, e permitir a execução no emulador online (link abaixo).
+\
+\
 Emulador BASIC: [https://www.calormen.com/jsbasic/](https://www.calormen.com/jsbasic/)
 
 \
