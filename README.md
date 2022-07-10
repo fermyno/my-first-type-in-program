@@ -36,8 +36,15 @@ Fue el comienzo de una pasión por el arte de la programación.
 El juego "Bowling" fue escrito por Paul Peraino, publicado en la revista "[BASIC Computer Games](https://en.wikipedia.org/wiki/BASIC_Computer_Games)" ([David H. Ahl](https://en.wikipedia.org/wiki/David_H._Ahl), 1973), y se encuentra disponible en el sitio [Vintage Basic](http://www.vintage-basic.net/).
 
 Si se encuentra aburrido y busca algo diferente que hacer ... ¡busca un café y diviértete!
-:-)
-
+\
+\
+**Archivos:**
+\
+**bowling.bas:** código del programa original publicado en la revista.
+\
+**bowling-portugues.bas:** ódigo con pequeños cambios para agregar la puntuación de cada jugador, mostrar los mensajes en portugués y permitir la ejecución en el emulador online (enlace a continuación).
+\
+\
 Emulador BASIC: [https://www.calormen.com/jsbasic/](https://www.calormen.com/jsbasic/)
 
 \
