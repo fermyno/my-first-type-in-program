@@ -60,5 +60,13 @@ The game "Bowling" was written by Paul Peraino, originally published in the maga
 
 If you are bored and looking for something different to do, get a coffee and have fun!
 :-)
-
-BASIC Emulator: [https://www.calormen.com/jsbasic/](https://www.calormen.com/jsbasic/)
+\
+\
+**Files:**
+\
+**bowling.bas:** original code.
+\
+**bowling-portugues.bas:** small changes to add each player's score, display the messages in portuguese, and run on the online emulator (link below).
+\
+\
+Emulador BASIC: [https://www.calormen.com/jsbasic/](https://www.calormen.com/jsbasic/)
