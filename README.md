@@ -70,3 +70,13 @@ If you are bored and looking for something different to do, get a coffee and hav
 \
 \
 Emulador BASIC: [https://www.calormen.com/jsbasic/](https://www.calormen.com/jsbasic/)
+\
+\
+\
+![Screenshot 1](https://raw.githubusercontent.com/fermyno/my-first-type-in-program/main/images/screenshot-bowling-1.jpg)
+\
+\
+![Screenshot 2](https://raw.githubusercontent.com/fermyno/my-first-type-in-program/main/images/screenshot-bowling-2.jpg)
+\
+\
+![Screenshot 3](https://raw.githubusercontent.com/fermyno/my-first-type-in-program/main/images/screenshot-bowling-3.jpg)
