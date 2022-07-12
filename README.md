@@ -73,6 +73,9 @@ Emulador BASIC: [https://www.calormen.com/jsbasic/](https://www.calormen.com/jsb
 \
 \
 \
+CAPTURAS DE TELA | CAPTURAS DE PANTALLA | SCREENSHOTS
+\
+\
 ![Screenshot 1](https://raw.githubusercontent.com/fermyno/my-first-type-in-program/main/images/screenshot-bowling-1.jpg)
 \
 \
