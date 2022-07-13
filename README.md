@@ -5,7 +5,7 @@
 
 Mantenho este repositório por razões puramente sentimentais, então, provavelmente ele não terá muito valor para você.
 
-Quando eu tinha 10 anos um amigo ganhou um computador [Sinclair ZX80](https://pt.wikipedia.org/wiki/Sinclair_ZX80), dando início a muitas madrugadas digitando os códigos <a href="https://en.wikipedia.org/wiki/Type-in_program" target="_blank">Type-in program</a> que apareciam em revistas estrangeiras que só encontrávamos na banca do aeroporto.[go](http://stackoverflow.com){:target="_blank"}
+Quando eu tinha 10 anos um amigo ganhou um computador [Sinclair ZX80](https://pt.wikipedia.org/wiki/Sinclair_ZX80), dando início a muitas madrugadas digitando os códigos <a href="https://en.wikipedia.org/wiki/Type-in_program" target="_blank">Type-in program</a> que apareciam em revistas estrangeiras que só encontrávamos na banca do aeroporto.
 
 Foi o início de uma paixão pela arte da programação.
 
