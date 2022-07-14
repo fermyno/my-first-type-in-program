@@ -83,3 +83,13 @@ CAPTURAS DE TELA | CAPTURAS DE PANTALLA | SCREENSHOTS
 \
 \
 ![Screenshot 3](https://raw.githubusercontent.com/fermyno/my-first-type-in-program/main/images/screenshot-bowling-3.jpg)
+\
+\
+\
+Links:
+[1] ([Sinclair ZX80](https://pt.wikipedia.org/wiki/Sinclair_ZX80))
+[2] ([Type-in program](https://en.wikipedia.org/wiki/Type-in_program))
+[3] ([BASIC Computer Games](https://en.wikipedia.org/wiki/BASIC_Computer_Games))
+[4] ([David H. Ahl](https://en.wikipedia.org/wiki/David_H._Ahl))
+[5] ([Vintage Basic](http://www.vintage-basic.net/))
+[6] ([Basic Emulator](https://www.calormen.com/jsbasic/))
