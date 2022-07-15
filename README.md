@@ -1,7 +1,9 @@
 # My first BASIC type-in program
-
-
-#### PORTUGUÊS
+\
+Shortcut: <a href="#portugues">Português</a> | <a href="#espanol">Español</a> | <a href="#english">English</a>
+<br>
+<br>
+#### PORTUGUÊS <a id="portugues"></a>
 
 Mantenho este repositório por razões puramente sentimentais, então, provavelmente ele não terá muito valor para você.
 
@@ -22,7 +24,7 @@ Se você está entediado e procura alguma coisa diferente para fazer, busca un c
 **bowling-portugues.bas:** código alterado por mim visando adicionar a pontuação de cada jogador, exibir as mensagens em língua portuguesa, e permitir a execução no emulador online (link abaixo).
 <br>
 <br>
-#### ESPAÑOL
+#### ESPAÑOL <a id="espanol"></a>
 
 Mantengo este repositorio por razones puramente sentimentales y creo que no tendrá mucho valor para usted. 
 
@@ -42,7 +44,7 @@ Si se encuentra aburrido y busca algo diferente que hacer ... ¡busca un café y
 **bowling-portugues.bas:** ódigo con pequeños cambios para agregar la puntuación de cada jugador, mostrar los mensajes en portugués y permitir la ejecución en el emulador online (enlace a continuación).
 <br>
 <br>
-#### ENGLISH
+#### ENGLISH <a id="english"></a>
 
 I keep this repository for sentimental reasons only, so it probably will not have much value for you.
 
