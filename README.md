@@ -3,6 +3,7 @@
 Shortcut: <a href="#portugues">Português</a> | <a href="#espanol">Español</a> | <a href="#english">English</a>
 <br>
 <br>
+
 <a id="portugues"></a>
 #### PORTUGUÊS 
 
